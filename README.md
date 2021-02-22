@@ -1,5 +1,5 @@
 # QFlashTool-Qualcomm-Flash-Tool
-## This tool is for flashing qualcomm devices.
+## This tool is for flashing qualcomm devices. Russian Language!
 ### ♦ Flash one partition
 ### ♦ Erase partition
 ### ♦ Flash firmware
