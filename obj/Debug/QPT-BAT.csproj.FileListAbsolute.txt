@@ -1,0 +1,14 @@
+C:\Users\wera\Desktop\files\obj\Debug\QPT-BAT.csprojAssemblyReference.cache
+C:\Users\wera\Desktop\files\obj\Debug\QPT-BAT.csproj.GenerateResource.cache
+C:\Users\wera\Desktop\files\obj\Debug\QPT-BAT.csproj.CoreCompileInputs.cache
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.Form2.resources
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.Format.resources
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.M.resources
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.Properties.Resources.resources
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.Py.resources
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.TP.resources
+C:\Users\wera\Desktop\files\obj\Debug\Properties.Resources.resources
+C:\Users\wera\Desktop\files\bin\Debug\QFlashTool.exe
+C:\Users\wera\Desktop\files\bin\Debug\QFlashTool.pdb
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.exe
+C:\Users\wera\Desktop\files\obj\Debug\QFlashTool.pdb
