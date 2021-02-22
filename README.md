@@ -5,8 +5,8 @@
 ### ♦ Flash firmware
 ### ♦ Unlock frp
 ### ♦ Read/backup flash to eMMC file -> eMMC.bin
-###  Read/Backup one partition to |*.img/*.bin/*.mbn|
-### ♦
+### ♦ Read/Backup one partition to |*.img/*.bin/*.mbn|
+### ♠
 ### ♦
 ### ♦
 ### ♦
